@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298113136602",
+    "project_id": "flash-chat-3d94e",
+    "storage_bucket": "flash-chat-3d94e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298113136602:android:3209ad687990976cb632e3",
+        "android_client_info": {
+          "package_name": "tEzo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298113136602-dbphlplrdd6n2baeaqnep26khndpe0e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWPoIwh1FV5j0s_m3AdQHrnNJzksPdqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298113136602-dbphlplrdd6n2baeaqnep26khndpe0e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
